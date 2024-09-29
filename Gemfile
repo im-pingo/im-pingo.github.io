@@ -36,8 +36,3 @@ gem "minimal-mistakes-jekyll"
 gem "jekyll-include-cache"
 gem 'jekyll-archives'
 gem 'jekyll-paginate'
-
-group :jekyll_plugins do
-  gem "jekyll-archives"
-end
-
