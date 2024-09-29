@@ -32,7 +32,9 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "minimal-mistakes-jekyll"
+# gem "minimal-mistakes-jekyll"
+# gem 'jekyll-archives'
+gem "minimal-mistakes-jekyll", "4.26.2"
+gem "jekyll-archives", "2.2.1"
 gem "jekyll-include-cache"
-gem 'jekyll-archives'
 gem 'jekyll-paginate'
