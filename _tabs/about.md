@@ -2,16 +2,31 @@
 layout: page
 icon: fas fa-info-circle
 order: 4
-image:
-  path: /images/dede.png
-  alt: Haitian parents be like.
 ---
 
-<!-- ![Haitian parents be like]({{ page.image.path }} "{{ page.image.alt }}") -->
-### Hey there
+## 关于我
 
-I'm Wilfrantz, and I'm excited to have you here on my portfolio, documentation, and personal blog! As a Systems Software engineer, I dive into some really cool stuff like Cyber Security, Linux Systems Administration, C/C++, Python, and Bash scripting. Oh, and let me tell you, I'm totally hooked on vim—it's just too efficient and versatile to resist! 😄
+你好，我是 Pingo，一名专注于流媒体技术的软件工程师。我热衷于探索和分享音视频技术、WebRTC、直播和视频会议等领域的解决方案。
 
-One thing that drives me is the desire to build and automate businesses. I'm on a mission to create a sustainable income that allows me to enjoy quality time with my family. That's where digital investments and business development come into play. It's a world that ignites my entrepreneurial spirit and keeps my ambition fueled!
+### 专业领域
 
-So, buckle up and join me on this exciting journey! We're going to delve into the captivating realms of software engineering, exploring the latest developments in systems programming, cybersecurity, scripting, and more. Together, we'll enhance our skills, broaden our knowledge, and make a positive impact in the tech world. Trust me, it's going to be an awesome ride!
+- 流媒体技术
+- WebRTC
+- 实时音视频通信
+- 直播技术
+- 视频会议系统
+
+### 技术栈
+
+- 编程语言：C/C++, Go, Python
+- 流媒体协议：RTMP, HLS, WebRTC, RTP/RTCP
+- 音视频编解码：H.264/H.265, AAC, Opus
+- 网络传输：TCP/UDP, QUIC
+- 开源项目：FFmpeg, GStreamer, WebRTC
+
+### 联系方式
+
+- GitHub: [@im-pingo](https://github.com/im-pingo)
+- Email: cczjp89@gmail.com
+
+欢迎交流和讨论任何关于流媒体技术的话题！
