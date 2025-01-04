@@ -35,7 +35,7 @@ Hello, I'm Pingo, a software engineer specializing in streaming media technology
 
 ## 🌟 精选项目 | Featured Projects
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/pingostack/pingos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-pingo&repo=pingos&theme=radical" alt="PingOS Repository Card" />
   </a>
@@ -56,7 +56,7 @@ Next-generation streaming media server developed in Go, supporting WebRTC, RTMP,
 
 ## 📊 GitHub 统计 | GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=im-pingo&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
@@ -71,6 +71,6 @@ Feel free to reach out for any discussions about streaming media technology!
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=im-pingo&color=blueviolet" alt="Profile views" />
 </div>
