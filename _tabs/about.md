@@ -37,10 +37,10 @@ Hello, I'm Pingo, a software engineer specializing in streaming media technology
 
 <div align="center">
   <a href="https://github.com/pingostack/pingos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-pingo&repo=pingos&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-pingo&repo=pingos&theme=radical" alt="PingOS Repository Card" />
   </a>
   <a href="https://github.com/pingostack/livhub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pingostack&repo=livhub&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pingostack&repo=livhub&theme=radical" alt="Livhub Repository Card" />
   </a>
 </div>
 
