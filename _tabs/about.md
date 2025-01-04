@@ -70,7 +70,3 @@ Next-generation streaming media server developed in Go, supporting WebRTC, RTMP,
 Feel free to reach out for any discussions about streaming media technology!
 
 ---
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=im-pingo&color=blueviolet" alt="Profile views" />
-</div>
